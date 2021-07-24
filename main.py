@@ -2,7 +2,7 @@ import smtplib
 import email.message
 
 # Put the emails you want to send to this list
-emails = ['email1@gmail.com', 'email2@outlook.com', 'fernandacrs0104@yahoo.com']
+emails = ['email1@gmail.com', 'email2@outlook.com', 'email3@yahoo.com']
 
 def enviar_email(to):  
     body_email = """
