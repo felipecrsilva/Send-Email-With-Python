@@ -4,7 +4,7 @@ import email.message
 # Put the emails you want to send to this list
 emails = ['email1@gmail.com', 'email2@outlook.com', 'email3@yahoo.com']
 
-def enviar_email(to):  
+def send_email(to):  
     body_email = """
     <h1>Message of email</h1>
     """
@@ -28,4 +28,4 @@ def enviar_email(to):
     print(f'Email sent to {to} successfully!')
 
 for i in range(len(emails)):
-    enviar_email(emails[i])
+    send_email(emails[i])
