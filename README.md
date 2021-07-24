@@ -29,6 +29,8 @@ $ pip install smtplib
 $ pip install email
 ```
 
+I recommend using GMAIL to send the messages, for the people who will receive them it can be any kind of email.
+
 If any errors occur, check that the information is correct, if everything is correct follow the steps:
 
 Visit: https://myaccount.google.com/lesssecureapps and enable the option!
