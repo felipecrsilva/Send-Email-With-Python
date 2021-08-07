@@ -10,7 +10,7 @@
 
 ## 🧪 Technologies
 
-This project was developed using the following technologies:
+This project was developed using the following technologie:
 
 - [Python](https://www.python.org/)
 
